@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SJDB_Example' do
+  pod 'SJDB', :path => '../'
+
+  target 'SJDB_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
