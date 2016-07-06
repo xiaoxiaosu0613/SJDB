@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # OS X
 .DS_Store
 
@@ -14,7 +14,6 @@ build/
 DerivedData/
 
 ## Various settings
->>>>>>> bca1c18433e1abfd41da04b2d8430819f3aaaafc
 *.pbxuser
 !default.pbxuser
 *.mode1v3
