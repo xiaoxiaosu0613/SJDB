@@ -1,0 +1,6 @@
+framework module SJDB {
+  umbrella header "SJDB-umbrella.h"
+
+  export *
+  module * { export * }
+}

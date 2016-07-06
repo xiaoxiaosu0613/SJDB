@@ -6,6 +6,6 @@ target 'SJDB_Example' do
   target 'SJDB_Tests' do
     inherit! :search_paths
 
-    
+    pod 'FMDB', '~>2.5'
   end
 end

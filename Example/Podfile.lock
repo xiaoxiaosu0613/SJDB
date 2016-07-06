@@ -1,0 +1,21 @@
+PODS:
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - SJDB (0.1.0)
+
+DEPENDENCIES:
+  - FMDB (~> 2.5)
+  - SJDB (from `../`)
+
+EXTERNAL SOURCES:
+  SJDB:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  SJDB: ffaeff4b957311dba2de7688cfd9070da36670b0
+
+PODFILE CHECKSUM: 0d93f517d52ff4674a885dde20e963843f47dd00
+
+COCOAPODS: 1.0.1
